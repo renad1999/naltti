@@ -68,8 +68,6 @@ The ERD was going to link between the products, category, user, shopping cart it
 <img width="676" alt="Screenshot 2023-08-17 at 01 53 00" src="https://github.com/renad1999/naltti/assets/112344006/f1d4b912-5dfe-4695-85e5-2b8369623417">
 
 
-
-
 Build/Code Process
 
 
@@ -151,7 +149,6 @@ Key Learnings/Takeaways
 
 I feel more confident using React, understanding how to use components. I also enjoy styling on MERN stack more than I did on any other language.
 I learnt how important it is to prioritise mental health to be able to always give the best work possible and to portray the capabilities I know I possess. 
-
 
 
 
